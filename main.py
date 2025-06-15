@@ -92,4 +92,4 @@ while input("Would you like to play a game of BlackJack? ") == "y":
 
 
 
-#Code the print
+#Code the function play
